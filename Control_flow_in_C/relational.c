@@ -11,7 +11,7 @@ int main()
 
     else if (a <= b)
     {
-        printf("A < B");
+        printf("A <= B");
     }
 
     return 0;
